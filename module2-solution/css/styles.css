@@ -58,7 +58,9 @@ h2 {
     border: 1px solid black;
     background-color: gray;
     padding: 15px;
-    /* Notice that we have a 1.5% margin between two cols. */
+    /* Notice that we have a 1.5% margin between two cols,
+       So all the column width sum togethe will be less than 100%.
+    */
     margin: 1.5%;
 }
 

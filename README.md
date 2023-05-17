@@ -17,3 +17,4 @@ As part of this course we developed a *real* website for a *real* client. Below 
 [David Chu's China Bistro Restaurant in Baltimore, MD](http://www.davidchuschinabistro.com/)
 
 [Module2 Solution](module2-solution/index.html)
+[Module3 Solution](module3-solution/index.html)
